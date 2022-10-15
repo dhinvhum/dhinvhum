@@ -56,6 +56,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dhinvhum/dhinvhum/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dhinvhum/dhinvhum/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=7ejsrkou6ci2jlyvc13ghv2ue&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=7ejsrkou6ci2jlyvc13ghv2ue&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)]]
 
 ###
